@@ -1,5 +1,5 @@
 # Unity-Game---StarTrek
-This is an individual Unity-designed game. Resources including Unity official assets.\
+A personal Unity-designed game. Resources including Unity official open assets.\
 Based on Unity 2021.3.8f1c1
 ![企业微信截图_16904476061183](https://github.com/SinomiyaKaguya/Unity-Game---StarTrek/assets/91616214/9ef83cdf-cd9a-4b1a-9732-89bb038a37c1)
 ![企业微信截图_16904532684279](https://github.com/SinomiyaKaguya/Unity-Game---StarTrek/assets/91616214/f9fbd6dd-3d72-4a1d-8cf9-9200821d4285)
